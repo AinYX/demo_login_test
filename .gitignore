@@ -1,4 +1,5 @@
 .idea
-setting.py
+settings.py
+__init__.py
 db.sqlite3
 Demo001/__pycache__
